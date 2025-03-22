@@ -5,6 +5,9 @@ This **Power BI dashboard** provides a detailed analysis of **chocolate product 
 
 By leveraging **interactive visualizations and key performance indicators (KPIs)**, this dashboard helps in understanding **market demand, best-selling products, and regional sales performance**, aiding in **strategic decision-making** for inventory management and marketing.  
 
+## Dataset Used
+- <a href = "https://github.com/johnonyebuchi91/PowerBi-Projects/blob/main/Bike%20Purchase%20Analysis.pbix"> Bike_Analysis_Dataset</a>
+
 ---
 
 ## ❓ Key Business Questions (KPIs)  
