@@ -6,7 +6,7 @@ This **Power BI dashboard** provides a detailed analysis of **chocolate product 
 By leveraging **interactive visualizations and key performance indicators (KPIs)**, this dashboard helps in understanding **market demand, best-selling products, and regional sales performance**, aiding in **strategic decision-making** for inventory management and marketing.  
 
 ## Dataset Used
-- <a href = "https://github.com/johnonyebuchi91/PowerBi-Projects/blob/main/Bike%20Purchase%20Analysis.pbix"> Bike_Analysis_Dataset</a>
+- <a href = "https://github.com/johnonyebuchi91/Power-BI-Chocolate-Sales-Report-1-/blob/main/Chocolate%20Sale%20Report.pbix">Chocolate_Sale_1_Dataset</a>
 
 ---
 
@@ -20,6 +20,10 @@ This analysis focuses on answering critical business questions, including:
 5. **How many boxes have been shipped, and what is the shipping efficiency?**  
 6. **What is the percentage of LBS (Load Balancing System) per product?**  
 7. **Which product categories need improvement in terms of sales and shipment?**  
+
+
+## Dashboard
+![chocolate sales report](https://github.com/user-attachments/assets/6bfdcbd1-404d-428e-a877-fd001980b19e)
 
 ---
 
